@@ -1,5 +1,5 @@
 # User-Stats
 
-Track users posts daily & monthly.
+WordPress plugin to Track users posts daily & monthly.
 
-# Rencana
+# TODO
