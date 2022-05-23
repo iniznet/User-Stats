@@ -1,6 +1,6 @@
 <?php
 
-namespace PluginSpace;
+namespace WPUserStatistics;
 
 /**
  * Implements example command.

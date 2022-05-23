@@ -1,6 +1,6 @@
 <?php
 
-namespace PluginSpace;
+namespace WPUserStatistics;
 
 /**
  * API routes loader.
